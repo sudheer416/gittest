@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.body-ground {
+  background-color: #282c34;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 1%;
+}
+background-image: url("https://buffer.com/library/content/images/library/wp-content/uploads/2017/06/facebook-cover-photo-computer.png");
